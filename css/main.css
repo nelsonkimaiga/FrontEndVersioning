@@ -1,5 +1,5 @@
 .specs{
-width: 1026px;
+width: 1100px;
 margin-left: 130px;
 height: 210px;
 
@@ -51,7 +51,7 @@ height: 210px;
 .port-right{
 	float: right;
 	width: 50%;
-	height:90%;
+	height:80%;
 }
 .port-right-2{
 	text-align: justify;
@@ -78,7 +78,7 @@ height: 210px;
 	color: #FFF;
 }
 #text-p{
-width: 1026px;
+width: 1100px;
 	
 	margin-left: 130px;
 	font:Arial, Helvetica, sans-serif;
@@ -118,7 +118,7 @@ body{
 }
 .header-one{
 	margin: 0 auto;
-	width: 1026px;
+	width: 1100px;
 }
 
 .top-left
@@ -193,7 +193,7 @@ font-style: italic;
   
 }
 .content-b{
-	width: 1026px;
+	width: 1100px;
 	text-align:justify;
 	margin-left: 130px;
 	font:Arial, Helvetica, sans-serif;
@@ -221,12 +221,12 @@ z-index: 100;
 }
 
 #three-items{
-width: 1026px;
+width: 1100px;
 margin-left: 130px;
 }
 
 .about{
-width: 1026px;
+width: 1100px;
 margin-left: 130px;
 height: 210px;
 
@@ -279,7 +279,7 @@ height: 210px;
 	
 }
 #port-2{
-	width: 1026px;
+	width:1100ppx;
 	
 	margin-left: 130px;
 	font:Arial, Helvetica, sans-serif;
